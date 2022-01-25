@@ -1,0 +1,4 @@
+numpy
+cvxopt
+matplotlib
+ipykernel
