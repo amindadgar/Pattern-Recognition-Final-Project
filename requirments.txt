@@ -2,3 +2,4 @@ numpy
 cvxopt
 matplotlib
 ipykernel
+cython
