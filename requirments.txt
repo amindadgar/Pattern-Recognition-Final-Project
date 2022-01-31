@@ -3,3 +3,5 @@ cvxopt
 matplotlib
 ipykernel
 cython
+pandas
+sklearn
